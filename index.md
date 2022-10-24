@@ -34,7 +34,7 @@ The first four sessions will be on Thursdays from 08:30 until 10:00. The student
 
 March 2023: Presentations
 
-**Location:** Hybrid format means that we will offer a Zoom room for the course: Zoom 3 (you will get the access details after the registration). You can also attend the course in person (C7.3 Seminar room 1.12).
+**Location:** Hybrid format means that we will offer a Zoom room for the course (students will receive the access details per mail after the registration). Students can also attend the course in person (C7.3 Seminar room 1.12).
 
 **Teams channel:** [Link to the MS Teams channel]
 
@@ -48,7 +48,7 @@ March 2023: Presentations
 
 **Office hours:**
 
-We will also offer office hours during the semester (9:30-10:00, every Thursday in Zoom). You are welcome to ask any questions concerning your presentation and the papers from the reading list.
+We will also offer office hours during the semester (9:30-10:00, every Thursday in Zoom). Students are welcome to ask any questions concerning the presentation and the papers from the reading list.
 
 **Reading list:**
 
