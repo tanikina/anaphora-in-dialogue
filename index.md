@@ -11,7 +11,9 @@ This is a **block seminar** which means that we will have 4 introductory lecture
  
 Each participant will be asked to give a 30 minutes presentation on one of the papers and provide a short summary and a couple of questions for other papers that will be presented. The seminar also offers an opportunity to earn 7 CP (credit points) if the student submits a term paper after the presentation (only presentation gives 4 CP).
 
-**Registration form:**
+**Registration form:** [Link to the registration form]
+
+[Link to the registration form]: https://forms.gle/55FEtvfXk6QVmByv6 
 
 The number of participants is **limited**. Please fill in the form until 31.10.22 (Monday)
 
