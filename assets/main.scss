@@ -6,7 +6,7 @@
 @import "minima";
 
 .title::before {
-content: url("/assets/logo.jpg");
+content: url("assets/logo.jpg");
 display: inline-block;
 position: relative;
 width: 5px;

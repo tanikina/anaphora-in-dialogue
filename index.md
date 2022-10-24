@@ -19,7 +19,7 @@ The number of participants is **limited**. Please fill in the form until 31.10.2
 
 **Date & Time** The first four sessions will be on Thursdays from 08:30 until 10:00. The student presentations will be at the end of the winter semester (possibly the first week of March, TBA).
 
-**Location:** Hybrid format means that we will offer a Zoom room for the course: Zoom 3 (you will get the access details after the registration). You can also attend the course in person (for ).
+**Location:** Hybrid format means that we will offer a Zoom room for the course: Zoom 3 (you will get the access details after the registration). You can also attend the course in person (C7.3 Seminar room 1.12).
 
 **Teams channel:** [Link to the MS Teams channel]
 
