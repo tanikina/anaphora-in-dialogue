@@ -27,10 +27,15 @@ The number of participants is **limited**. Please fill in the form until 31.10.2
 
 **Sessions:** 
 
-03.11 Introduction
-10.11 Coreference Models
-17.11 Advanced Topics
-24.11 Tips for Presentations
+03.11.22: Introduction
+
+10.11.22: Coreference Models
+
+17.11.22: Advanced Topics
+
+24.11.22: Tips for Presentations
+
+March 2023: Presentations
 
 **Requirements:**
 

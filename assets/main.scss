@@ -5,7 +5,7 @@
 
 @import "minima";
 
-.site-title::before {
+.title::before {
 content: url("/assets/logo.jpg");
 display: inline-block;
 position: relative;
