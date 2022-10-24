@@ -1,6 +1,9 @@
 ---
 title: Anaphora in Dialogue
 ---
+
+**Teachers:** Tatiana Anikina, Natalia Skachkova and Cennet Oguz (DFKI)
+
 **Description:**
 
 The topic of this seminar is **coreference resolution**, specifically in dialogue. We will learn about different types of referring expressions, look at the available corpora and review various methods that have been proposed for coreference resolution. Also, we will learn about different ways of evaluating coreference systems (including MUC, B3 and CEAF) and explore unusual and less studied cases of coreference (e.g., multilingual or multimodal coreference and discourse deixis).
@@ -17,15 +20,9 @@ Each participant will be asked to give a 30 minutes presentation on one of the p
 
 The number of participants is **limited**. Please fill in the form until 31.10.22 (Monday)
 
-**Date & Time** The first four sessions will be on Thursdays from 08:30 until 10:00. The student presentations will be at the end of the winter semester (possibly the first week of March, TBA).
-
-**Location:** Hybrid format means that we will offer a Zoom room for the course: Zoom 3 (you will get the access details after the registration). You can also attend the course in person (C7.3 Seminar room 1.12).
-
-**Teams channel:** [Link to the MS Teams channel]
-
-[Link to the MS Teams channel]: https://teams.microsoft.com/l/channel/19%3aKyGvVWHnAX3RbNrLt3DH2Rv-rFUWdSVRq1si2bIW3Nc1%40thread.tacv2/General?groupId=d96509ac-d037-49bf-a123-84581355d529&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f
-
 **Sessions:** 
+
+The first four sessions will be on Thursdays from 08:30 until 10:00. The student presentations will be at the end of the winter semester (possibly the first week of March, TBA).
 
 03.11.22: Introduction
 
@@ -36,6 +33,12 @@ The number of participants is **limited**. Please fill in the form until 31.10.2
 24.11.22: Tips for Presentations
 
 March 2023: Presentations
+
+**Location:** Hybrid format means that we will offer a Zoom room for the course: Zoom 3 (you will get the access details after the registration). You can also attend the course in person (C7.3 Seminar room 1.12).
+
+**Teams channel:** [Link to the MS Teams channel]
+
+[Link to the MS Teams channel]: https://teams.microsoft.com/l/channel/19%3aKyGvVWHnAX3RbNrLt3DH2Rv-rFUWdSVRq1si2bIW3Nc1%40thread.tacv2/General?groupId=d96509ac-d037-49bf-a123-84581355d529&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f
 
 **Requirements:**
 
