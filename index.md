@@ -19,7 +19,9 @@ The number of participants is **limited**. Please fill in the form until 31.10.2
 
 **Location:** Hybrid format means that we will offer a Zoom room for the course: Zoom 3 (you will get the access details after the registration). You can also attend the course in person (for ).
 
-**Teams channel:** [Link to the MS Teams channel]: https://teams.microsoft.com/l/channel/19%3aKyGvVWHnAX3RbNrLt3DH2Rv-rFUWdSVRq1si2bIW3Nc1%40thread.tacv2/General?groupId=d96509ac-d037-49bf-a123-84581355d529&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f
+**Teams channel:** [Link to the MS Teams channel]
+
+[Link to the MS Teams channel]: https://teams.microsoft.com/l/channel/19%3aKyGvVWHnAX3RbNrLt3DH2Rv-rFUWdSVRq1si2bIW3Nc1%40thread.tacv2/General?groupId=d96509ac-d037-49bf-a123-84581355d529&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f
 
 **Sessions:** 
 
@@ -30,7 +32,8 @@ The number of participants is **limited**. Please fill in the form until 31.10.2
 
 **Requirements:**
 
-4 CP: 30 min. presentation, summaries for all papers from the reading list
+4 CP: 30 min. presentation, summaries for all papers from the reading list and questions (2-3 per paper)
+
 7 CP: same as for 4CP plus a term paper about the topic presented in the seminar
 
 **Office hours:**
