@@ -12,7 +12,7 @@ The topic of this seminar is **coreference resolution**, specifically in dialogu
 
 This is a **block seminar** which means that we will have 4 introductory lectures at the beginning of the semester followed by the student presentations at the end of the semester (possibly the first week of March, TBA). All sessions will be in a **hybrid format**.
  
-Each participant will be asked to give a 30 minutes presentation on one of the papers and provide a short summary and a couple of questions for other papers that will be presented. The seminar also offers an opportunity to earn 7 CP (credit points) if the student submits a term paper after the presentation (only presentation gives 4 CP).
+Each participant will be asked to give a 30 minutes presentation on one of the papers and provide a short summary and a couple of questions for other papers from the reading list. The seminar also offers an opportunity to earn 7 CP (credit points) if the student submits a term paper after the presentation (only presentation gives 4 CP).
 
 **Registration form:** [Link to the registration form]
 
@@ -44,11 +44,11 @@ March 2023: Presentations
 
 4 CP: 30 min. presentation, summaries for all papers from the reading list and questions (2-3 per paper)
 
-7 CP: same as for 4CP plus a term paper about the topic presented in the seminar
+7 CP: same as for 4 CP plus a term paper about the topic presented in the seminar
 
 **Office hours:**
 
-We will also offer office hours during the semester (9:30-10:00, every Thursday in Zoom). Students are welcome to ask any questions concerning the presentation and the papers from the reading list.
+We will also offer office hours during the semester (9:30-10:00, every Thursday in Zoom). Students are welcome to ask any questions concerning their presentation and the papers from the reading list.
 
 **Reading list:**
 
