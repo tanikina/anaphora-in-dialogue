@@ -14,11 +14,7 @@ This is a **block seminar** which means that we will have 4 introductory lecture
  
 Each participant will be asked to give a 30 minutes presentation on one of the papers and provide a short summary and a couple of questions for other papers from the reading list. The seminar also offers an opportunity to earn 7 CP (credit points) if the student submits a term paper after the presentation (only presentation gives 4 CP).
 
-**Registration form:** [Link to the registration form]
-
-[Link to the registration form]: https://forms.gle/55FEtvfXk6QVmByv6 
-
-The number of participants is **limited**. Please fill in the form until 31.10.22 (Monday)
+The course is already full, we do not accept any new applications.
 
 **Sessions:** 
 
@@ -35,6 +31,8 @@ The first four sessions will be on Thursdays from 08:30 until 10:00. The student
 March 2023: Presentations
 
 **Location:** Hybrid format means that we will offer a Zoom room for the course (students will receive the access details per mail after the registration). Students can also attend the course in person (C7.3 Seminar room 1.12).
+
+IMPORTANT: Our first meeting on Thursday (3.11) will be online (Zoom, room 3). All registered participants should have received an email with the access details per email. If not, please contact the course organizers or visit our channel in Teams (see below) to find the access data for Zoom.
 
 **Teams channel:** [Link to the MS Teams channel]
 
