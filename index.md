@@ -52,8 +52,6 @@ We will also offer office hours during the semester (9:30-10:00, every Thursday 
 
 Eirew, Alon, Arie Cattan and Ido Dagan. “WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia.” ArXiv abs/2104.05022 (2021): n. pag. Link: <https://aclanthology.org/2021.naacl-main.198.pdf>
 
-Fang, Biaoyan, Christian Druckenbrodt, Saber A Akhondi, Jiayuan He, Timothy Baldwin, and Karin Verspoor. 2021. ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pages 1362–1375. Link: <https://aclanthology.org/2021.eacl-main.116.pdf>
-
 Fang, Biaoyan, Timothy Baldwin, and Karin Verspoor. 2022. What does it take to bake a cake? The RecipeRef corpus and anaphora resolution in procedural text. Link: <https://aclanthology.org/2022.findings-acl.275.pdf>
 
 Kirstain, Yuval, Ori Ram and Omer Levy. “Coreference Resolution without Span Representations.” ACL (2021). Link: <https://aclanthology.org/2021.acl-short.3.pdf>
@@ -62,7 +60,7 @@ Kobayashi, Hideo and Vincent Ng. 2020. Bridging Resolution: A Survey of the Stat
 
 Kobayashi, Hideo and Shengjie Li, and Vincent Ng. 2021. Neural Anaphora Resolution in Dialogue. In Proceedings of the CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue, pages 16–31, Punta Cana, Dominican Republic. Association for Computational Linguistics. (CODI-CRAC Shared task 2021 winner for the discourse deixis resolution track). Link: <https://aclanthology.org/2021.codi-sharedtask.2.pdf>
 
-Lai, T., Heng Ji, Trung Bui, Quan Hung Tran, Franck Dernoncourt and Walter Chang. “A Context-Dependent Gated Module for Incorporating Symbolic Semantics into Event Coreference Resolution.” ArXiv abs/2104.01697 (2021): n. pag. Link: <https://www.aclweb.org/anthology/2021.naacl-main.274.pdf>
+Le, Nghia, Fan Bai and Alan Ritter. “Few-Shot Anaphora Resolution in Scientific Protocols via Mixtures of In-Context Experts.” ArXiv abs/2210.03690 (2022): n. pag. Link: <https://arxiv.org/pdf/2210.03690.pdf>
 
 Liu, Zhengyuan, Ke Shi and Nancy F. Chen. “Coreference-Aware Dialogue Summarization.” SIGDIAL (2021). Link: <https://www.aclanthology.org/2021.sigdial-1.53.pdf>
 
@@ -70,12 +68,7 @@ Loáiciga, Sharid, Simon Dobnik and David Schlangen. “Reference and coreferenc
 
 Oguz, Cennet, Ivana Kruijff-Korbayová, Pascal Denis, Emmanuel Vincent, Josef van Genabith. Chop and change: Anaphora resolution in instructional cooking videos. Findings of AACL Link: <https://hal.inria.fr/hal-03807530/file/oguz_AACL22.pdf>
 
-Wu, Wei, Fei Wang, Arianna Yuan, Fei Wu and Jiwei Li. “CorefQA: Coreference Resolution as Query-based Span Prediction.” ACL (2020). Link: <https://www.aclweb.org/anthology/2020.acl-main.622.pdf>
-
 Xu, Liyan and Jinho D. Choi. “Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on Real-Time Conversations.” STARSEM (2022). Link: <https://www.aclanthology.org/2022.starsem-1.30.pdf>
 
-Yu, Juntao, Sopan Khosla, Ramesh Radhakrishna Manuvinakurike, Lori Levin, Vincent Ng, Massimo Poesio, Michael Strube and Carolyn Penstein Rosé. COLING (2022). The CODI-CRAC 2022 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue. Link: <https://aclanthology.org/2022.codi-crac.1.pdf>
-
 Zheng, Boyuan, Patrick Xia, Mahsa Yarmohammadi and Benjamin Van Durme. “Multilingual Coreference Resolution in Multiparty Dialogue.” ArXiv abs/2208.01307 (2022): n. pag. Link: <https://arxiv.org/pdf/2208.01307.pdf>
-
  
