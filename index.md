@@ -50,7 +50,13 @@ We will also offer office hours during the semester (9:30-10:00, every Thursday 
 
 **Reading list:**
 
-Fu, Qiankun, Linfeng Song, Wenyu Du and Yue Zhang. “End-to-End AMR Coreference Resolution.” ACL (2021). Link: <https://www.aclanthology.org/2021.acl-long.324.pdf>
+Eirew, Alon, Arie Cattan and Ido Dagan. “WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia.” ArXiv abs/2104.05022 (2021): n. pag. Link: <https://aclanthology.org/2021.naacl-main.198.pdf>
+
+Fang, Biaoyan, Christian Druckenbrodt, Saber A Akhondi, Jiayuan He, Timothy Baldwin, and Karin Verspoor. 2021. ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pages 1362–1375. Link: <https://aclanthology.org/2021.eacl-main.116.pdf>
+
+Fang, Biaoyan, Timothy Baldwin, and Karin Verspoor. 2022. What does it take to bake a cake? The RecipeRef corpus and anaphora resolution in procedural text. Link: <https://aclanthology.org/2022.findings-acl.275.pdf>
+
+Kirstain, Yuval, Ori Ram and Omer Levy. “Coreference Resolution without Span Representations.” ACL (2021). Link: <https://aclanthology.org/2021.acl-short.3.pdf>
 
 Kobayashi, Hideo and Vincent Ng. 2020. Bridging Resolution: A Survey of the State of the Art. In Proceedings of the 28th International Conference on Computational Linguistics, pages 3708–3721, Barcelona, Spain (Online). International Committee on Computational Linguistics. Link: <https://aclanthology.org/2020.coling-main.331.pdf>
 
@@ -61,6 +67,8 @@ Lai, T., Heng Ji, Trung Bui, Quan Hung Tran, Franck Dernoncourt and Walter Chang
 Liu, Zhengyuan, Ke Shi and Nancy F. Chen. “Coreference-Aware Dialogue Summarization.” SIGDIAL (2021). Link: <https://www.aclanthology.org/2021.sigdial-1.53.pdf>
 
 Loáiciga, Sharid, Simon Dobnik and David Schlangen. “Reference and coreference in situated dialogue.” ALVR (2021). Link: <https://www.aclweb.org/anthology/2021.alvr-1.7.pdf>
+
+Oguz, Cennet, Ivana Kruijff-Korbayová, Pascal Denis, Emmanuel Vincent, Josef van Genabith. Chop and change: Anaphora resolution in instructional cooking videos. Findings of AACL Link: <https://hal.inria.fr/hal-03807530/file/oguz_AACL22.pdf>
 
 Wu, Wei, Fei Wang, Arianna Yuan, Fei Wu and Jiwei Li. “CorefQA: Coreference Resolution as Query-based Span Prediction.” ACL (2020). Link: <https://www.aclweb.org/anthology/2020.acl-main.622.pdf>
 
